@@ -20,7 +20,7 @@ pkg upgrade
 pkg install python -y
 pkg install git -y
 git clone https://github.com/DARK-NET-604/PyObfuscate
-cd Obfuscate
+cd PyObfuscate
 python enc.py
 ````
 
